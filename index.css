@@ -8,6 +8,11 @@ a{
     box-shadow: none;
     cursor: pointer;
 }
+.icon {
+    width: 30px;
+    border-radius: 50%;
+
+}
 button {
     border: 0;
     outline: 0;
