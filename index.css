@@ -117,7 +117,7 @@ h2{
 }
 body {
     /* color: #262626; */
-    background-image: url(/static/images/cloud.jpeg);
+    background-image: url(static/images/cloud.jpeg);
     background-color: beige;
     display: flex;
     flex-direction: column;
